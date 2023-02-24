@@ -1,6 +1,6 @@
 # Portfólio
 
-![preview img](/assets/img/fotop.svg)
+![preview img](/assets/img/portifolio.png)
 
 
 
