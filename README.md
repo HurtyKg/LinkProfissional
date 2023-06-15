@@ -1,7 +1,6 @@
 # Portfólio
 
-![preview img](/assets/img/portifolio.png)
-
+![preview img](/assets/redme.png)
 
 
 
